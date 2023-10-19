@@ -1,15 +1,15 @@
 Hi 👋 My name is Luis Lobo
 ==========================
 
-Software Developer and Data Science Passionate
+Software Engineer, Robots Process Automation Developer and Data Science Passionate
 ----------------------------------------------
 
 I have been learning programming languages, software development and web development for the last 4 years. I am a passionate person about technology and a healthy lifestyle.
 
 * 🌍  I'm based in San Ramón, Alajuela, Costa Rica
 * ✉️  You can contact me at [llobozamora@gmail.com](mailto:llobozamora@gmail.com)
-* 🧠  I'm learning React, Azure AI and Project Management
-* 🤝  I'm open to collaborating on Web Development Projects
+* 🧠  I'm currently learning React, GCP, UiPath and AI
+* 🤝  I'm open to collaborating on Web Development Projects and Automations with Python
 
 ### Skills
 
