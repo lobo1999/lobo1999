@@ -6,7 +6,7 @@ Software Engineer, Robots Process Automation Developer and Data Science Passiona
 
 I have been learning programming languages, software development and web development for the last 4 years. I am a passionate person about technology and a healthy lifestyle.
 
-* 🌍  I'm based in San Ramón, Alajuela, Costa Rica
+* 🌍  I'm based in San José, Costa Rica 🇨🇷
 * ✉️  You can contact me at [llobozamora@gmail.com](mailto:llobozamora@gmail.com)
 * 🧠  I'm currently learning React, GCP, UiPath and AI
 * 🤝  I'm open to collaborating on Web Development Projects and Automations with Python
@@ -23,9 +23,17 @@ I have been learning programming languages, software development and web develop
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 </p>
 
+
 Check my work here
 
-<b>Abstracciones Literarias: </b> <a href="https://abstracciones-literarias.vercel.app/" target="_blank" rel="noreferrer"><img src="https://www.freepnglogos.com/uploads/logo-website-png/logo-website-website-icon-with-png-and-vector-format-for-unlimited-22.png" width="36" height="36" alt="MySQL" /></a>
+<b>Abstracciones Literarias: Online magazine project for Museo Regional de San Ramon and "La Salita del Museo", technologies utilized: React, Next.JS, Tailwind, GraphQL. </b>
+
+<a href="https://abstracciones-literarias.vercel.app/" target="_blank" rel="noreferrer"><img src="https://www.freepnglogos.com/uploads/logo-website-png/logo-website-website-icon-with-png-and-vector-format-for-unlimited-22.png" width="46" height="46" alt="MySQL" /></a>
+
+
+<b>Esencia Namu: Online informative site specializing in tourism around natural beaches and resources within Costa Rica. Technologies used include React, Bootstrap, Heroku, and the Google Maps platform. </b>
+
+<a href="https://esencia-namu.vercel.app/" target="_blank" rel="noreferrer"><img src="https://www.freepnglogos.com/uploads/logo-website-png/logo-website-website-icon-with-png-and-vector-format-for-unlimited-22.png" width="46" height="46" alt="MySQL" /></a>
 
 
 ### Socials
